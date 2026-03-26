@@ -1064,7 +1064,7 @@ input { font-family: inherit; }
 
 .register-section-img {
   width: 100%;
-  max-width: 760px;
+  max-width: 920px;
   height: auto;
   display: block;
   border-radius: 16px;
@@ -2182,7 +2182,7 @@ nav,
   visibility: visible !important;
   opacity: 1 !important;
   width: 100%;
-  max-width: 760px;
+  max-width: 920px;
   height: auto;
   border-radius: 16px;
   border: none;
