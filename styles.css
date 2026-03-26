@@ -2173,3 +2173,17 @@ nav,
   min-height: unset !important;
   margin-bottom: 0 !important;
 }
+
+/* ================================================================
+   REGISTER SECTION IMAGE — visibility guarantee
+================================================================ */
+.register-section-img {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  width: 100%;
+  max-width: 760px;
+  height: auto;
+  border-radius: 16px;
+  border: none;
+}
