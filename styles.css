@@ -1064,7 +1064,7 @@ input { font-family: inherit; }
 
 .register-section-img {
   width: 100%;
-  max-width: 920px;
+  max-width: 640px;
   height: auto;
   display: block;
   border-radius: 16px;
@@ -2039,7 +2039,7 @@ footer .logo-img {
 
 .hero-phone-img {
   width: 100%;
-  max-width: 380px;
+  max-width: 480px;
   height: auto;
   display: block !important;
   visibility: visible !important;
@@ -2048,13 +2048,13 @@ footer .logo-img {
 
 @media (max-width: 900px) {
   .hero-phone-img {
-    max-width: 260px;
+    max-width: 340px;
   }
 }
 
 @media (max-width: 767px) {
   .hero-phone-img {
-    max-width: 200px;
+    max-width: 260px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -2182,7 +2182,7 @@ nav,
   visibility: visible !important;
   opacity: 1 !important;
   width: 100%;
-  max-width: 920px;
+  max-width: 640px;
   height: auto;
   border-radius: 16px;
   border: none;
